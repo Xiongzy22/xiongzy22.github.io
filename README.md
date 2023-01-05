@@ -11,7 +11,7 @@ Hello, I'm Zhiyao Xiong, just a lover of mathmatics. I am quite interested in ex
 ### Personal notes
 
 * [Here](notes/Foundation_of_analysis/Foundations.pdf) are my notes about the foundations of analysis, which contain some basic knowledge about functional analysis and real analysis.
-* (Last updated 2023.01.04)[Here](notes/Riemmanian_geometry(last_update:20230104)/RG_notes.pdf) are my notes about Riemannian geometry (to be continued).
+* (Last updated 2023.01.04) [Here](notes/Riemmanian_geometry(last_update:20230104)/RG_notes.pdf) are my notes about Riemannian geometry (to be continued).
 
 ### Contact
 xiongzy22@mails.tsinghua.edu.cn
